@@ -41,7 +41,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #BCD8E5;
+	color: green;
 }
 ul, ol {
 	list-style: none;
@@ -207,7 +207,7 @@ hr {
 	background: #BCD8E5;
 }
 #skills h2 {
-	color: #fff;
+	color: #555;
 }
 #skills hr {
 	background: rgba(255,255,255,0.3);
@@ -219,7 +219,7 @@ hr {
 }
 #skills .skill h4 {
 	font-weight: 600;
-	color: #fff;
+	color: #555;
 }
 .chart {
 	position: relative;
@@ -740,3 +740,7 @@ header .intro-text {
 	padding: 10px 100px 20px 20px;
 }
 }
+
+/*.email_link a:hover{
+	background-color: black;
+}*/
